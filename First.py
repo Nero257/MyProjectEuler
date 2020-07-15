@@ -12,4 +12,4 @@ while i < 1000:
     if checked(i):
         sum_of_checked = sum_of_checked + i
     i = i + 1
-print(sum_of_checked)
+print(sum_of_checked)  # Ожидаемое число 233168
